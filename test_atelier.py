@@ -16,3 +16,7 @@ def test_noms_courts():
 
 def test_total_caracteres():
     assert outils_atelier.total_caracteres(outils) == 36
+
+
+# Dans ce fichier tous les test passent . ca prouve que ma fonction fonctionne mais cela ne prouve pas 
+# qu'elle fonctionne sur le but pour laquelle elle a ete créé car elle ne met pas en etude ce point.
